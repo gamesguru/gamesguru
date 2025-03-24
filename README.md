@@ -10,7 +10,7 @@
 
 # Other services/badges
 
-[![lichess-rapid](https://lichess-shield.vercel.app/api?username=chown_tee&format=rapid)](https://lichess.org/@/chown_tee/perf/rapid)
+[![lichess-rapid](https://lichess-shield.vercel.app/api?username=chown_tee&format=correspondence)](https://lichess.org/@/chown_tee/perf/correspondence)
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/mathmuncher11)
 
