@@ -12,18 +12,20 @@
 
   ---
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gamesguru&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="gamesguru's Github Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamesguru&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="gamesguru's Top Languages" />
-  </a>
+## 🛠 Languages & Tools
 
-  <br><br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamesguru&theme=vue-dark&hide_border=true" alt="gamesguru's Streak" />
-
-</div>
+<!-- 
+![gamesguru's Stats](https://github-readme-stats.vercel.app/api?username=gamesguru&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![gamesguru's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gamesguru&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gamesguru&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+ -->
 
 ---
 
