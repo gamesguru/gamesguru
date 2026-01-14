@@ -2,7 +2,7 @@
 
   # Hi, I'm Shane 👋
   
-  **Researcher | Developer | Chess Enthusiast**
+  **Researcher | Developer | Math Enthusiast**
   
   <p>
     I am a developer passionate about open source tools, algorithm optimization, and data security.
