@@ -1,63 +1,50 @@
-<div align="center">
+# Shane Jaroch
 
-  # Hi, I'm Shane 👋
-  
-  **Researcher | Developer | Math Enthusiast**
-  
-  <p>
-    I am a developer passionate about open source tools, algorithm optimization, and data security.
-    <br>
-    I currently build data tools with <b><a href="https://github.com/nutratech">@nutratech</a></b> and contribute to the AI developer ecosystem.
-  </p>
+**C++ & Python Developer | Open Source Contributor | Security Researcher**
 
-  ---
-
-## 🛠 Languages & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<!-- 
-![gamesguru's Stats](https://github-readme-stats.vercel.app/api?username=gamesguru&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![gamesguru's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gamesguru&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gamesguru&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
- -->
+Building high-performance tools and securing data pipelines.
+Currently improving **[continuedev/continue](https://github.com/continuedev/continue)** (AI dev tools) and **[nutratech](https://github.com/nutratech)** (data infrastructure).
 
 ---
 
-## 🚀 Significant Contributions
+## Significant Contributions
 
-### 🤖 AI & Developer Tools
-* **[continuedev/continue](https://github.com/continuedev/continue)**: Refactored the core GUI and context management to handle "Virtuoso" long-context chats, significantly reducing UI lag in large conversations. (PR #9488)
+### AI & Developer Tools
+* **[continuedev/continue](https://github.com/continuedev/continue)**: Enabled handling of long-context chats ("Virtuoso") by refactoring the core GUI and context management, significantly reducing UI latency. (PR #9488)
 
-### 🔐 Security & Cryptography
-* **[louisabraham/ffpass](https://github.com/louisabraham/ffpass)**: Implemented AES/mixed key support and fixed critical panic errors for Firefox password export/import tools. (PR #72)
-* **[gamesguru/git-remote-gcrypt](https://github.com/gamesguru/git-remote-gcrypt)**: Expanded core functionality, implemented comprehensive test suites, and resolved critical bugs for PGP-encrypted git remotes.
+### UI & Desktop
+* **[Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko)**: Improved user experience in settings by preventing ComboBox and SpinBox elements from capturing mouse scroll events unless actively focused.
 
-### ⚡ Backend & Optimization
-* **[Linekio/getmyancestors](https://github.com/Linekio/getmyancestors)**: Engineered session caching and strict rate-limiting (max 8 req/s) to prevent API bans during bulk data scraping. (PR #74)
-* **[nutratech/usda-sqlite](https://github.com/nutratech/usda-sqlite)**: Ported the massive USDA food database to a portable SQLite format for easier developer access.
+### Security & Cryptography
+* **[feather-wallet/feather](https://github.com/feather-wallet/feather)**: Implementing pause-sync functionality to improve bandwidth control and user experience. (`feat/pause-sync`)
+* **[spwhitton/git-remote-gcrypt](https://github.com/spwhitton/git-remote-gcrypt)**: Expanded core functionality and fixed critical bugs for PGP-encrypted git remotes.
+* **[louisabraham/ffpass](https://github.com/louisabraham/ffpass)**: Implemented AES/mixed key support for Firefox password export/import. (PR #72)
+
+### Backend & Data
+* **[Linekio/getmyancestors](https://github.com/Linekio/getmyancestors)**: Engineered session caching and rate-limiting to prevent API bans. (PR #74)
+* **[nutratech/usda-sqlite](https://github.com/nutratech/usda-sqlite)**: Ported USDA food database to portable SQLite.
 
 ---
 
-## 🌐 Connect & Badges
+### Support My Work
 
-<div align="center">
-
-  <a href="https://www.hackerrank.com/profile/mathmuncher11">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
-  </a>
-  
-  <a href="https://www.researchgate.net/profile/Shane-Jaroch">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate" />
-  </a>
-
-  <a href="https://lichess.org/@/chown_tee/perf/correspondence">
-    <img src="https://img.shields.io/badge/Lichess_Rating-1952-lightgrey?style=for-the-badge&logo=lichess&labelColor=2d2d2d" alt="Lichess Rapid" />
-  </a>
-
-</div>
+<table border="0">
+  <tr>
+    <td valign="top"><img src="assets/xmr-qr.png" width="80" alt="XMR"></td>
+    <td valign="top">
+      <small><b>Monero (XMR)</b><br>
+      488XZJ8F26o1epgUy1wfWEd<br>
+      ehYcBohUio5X7u7ChGn5fb<br>
+      Xw16b24mVERJkXSi9WdjKe<br>
+      BEBBb6T8AS8tmEhaZR4629<br>
+      nRYAvw</small>
+    </td>
+    <td valign="top" style="padding-left: 20px;"><img src="assets/btc-qr.png" width="80" alt="BTC"></td>
+    <td valign="top">
+      <small><b>Bitcoin (BTC)</b><br>
+      bc1qr04lmdzvel7x34jc<br>
+      58ru5h78c8vjwz6p4xtq<br>
+      5z</small>
+    </td>
+  </tr>
+</table>
