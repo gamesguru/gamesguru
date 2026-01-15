@@ -3,7 +3,6 @@
 **C++ & Python Developer | Open Source Contributor**
 
 Building high-performance tools and securing data pipelines.
-Currently improving **[continuedev/continue](https://github.com/continuedev/continue)** (AI dev tools), **[tg-svelte-kit](https://github.com/gamesguru/tg-svelte-kit)** (legacy web infra), and **[nutratech](https://github.com/nutratech)** (data infrastructure).
 
 ---
 
@@ -11,23 +10,23 @@ Currently improving **[continuedev/continue](https://github.com/continuedev/cont
 
 ### Developer Tools & Infrastructure
 
-- **[continuedev/continue](https://github.com/continuedev/continue)**: Enabled handling of long-context chats ("Virtuoso") by refactoring the core GUI and context management, significantly reducing UI latency. (PR #9488)
-- **[gamesguru/tg-svelte-kit](https://github.com/gamesguru/tg-svelte-kit)**: Restored legacy browser support (IE11) to SvelteKit 2 by engineering a dual-build pipeline with `@vitejs/plugin-legacy`. Implemented complex multi-output entry resolution and cross-platform CI verification.
+- **[continuedev/continue](https://github.com/continuedev/continue)**: Enabled handling of long-context chats ("Virtuoso") by refactoring the core GUI and context management.
+- **[gamesguru/tg-svelte-kit](https://github.com/gamesguru/tg-svelte-kit)**: Restored legacy browser support (IE11) to SvelteKit 2.
 
 ### UI & Desktop
 
-- **[Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko)**: Improved user experience in settings by preventing ComboBox and SpinBox elements from capturing mouse scroll events unless actively focused.
-- **[feather-wallet/feather](https://github.com/feather-wallet/feather)**: Implementing pause-sync functionality to improve bandwidth control and user experience. (`feat/pause-sync`)
+- **[Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko)**
+- **[feather-wallet/feather](https://github.com/feather-wallet/feather)**
 
 ### Security & Cryptography
 
-- **[spwhitton/git-remote-gcrypt](https://github.com/spwhitton/git-remote-gcrypt)**: Expanded core functionality and fixed critical bugs for PGP-encrypted git remotes.
-- **[louisabraham/ffpass](https://github.com/louisabraham/ffpass)**: Implemented AES/mixed key support for Firefox password export/import. (PR #72)
+- **[spwhitton/git-remote-gcrypt](https://github.com/spwhitton/git-remote-gcrypt)**
+- **[louisabraham/ffpass](https://github.com/louisabraham/ffpass)**
 
 ### Backend & Data
 
-- **[Linekio/getmyancestors](https://github.com/Linekio/getmyancestors)**: Engineered session caching and rate-limiting to prevent API bans. (PR #74)
-- **[nutratech/usda-sqlite](https://github.com/nutratech/usda-sqlite)**: Ported USDA food database to portable SQLite.
+- **[Linekio/getmyancestors](https://github.com/Linekio/getmyancestors)**
+- **[nutratech/usda-sqlite](https://github.com/nutratech/usda-sqlite)*
 
 ---
 
