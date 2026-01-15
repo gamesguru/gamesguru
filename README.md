@@ -26,7 +26,7 @@ Building high-performance tools and securing data pipelines.
 ### Backend & Data
 
 - **[Linekio/getmyancestors](https://github.com/Linekio/getmyancestors)**
-- **[nutratech/usda-sqlite](https://github.com/nutratech/usda-sqlite)*
+- **[nutratech/usda-sqlite](https://github.com/nutratech/usda-sqlite)**
 
 ---
 
